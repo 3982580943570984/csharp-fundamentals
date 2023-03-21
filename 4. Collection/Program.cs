@@ -56,9 +56,11 @@ CollectionType<Building> MyCollection2 = new() {
     new Building(city: "David"),
     new Building(city: "Eve")
 };
-MyCollection2[0].Volume = 10;
+MyCollection2[0].Volume = 2;
+MyCollection2[1].Volume = 10;
 MyCollection2[2].Volume = 8;
 MyCollection2[3].Volume = 9;
+MyCollection2[4].Volume = 3;
 
 // 1
 var LINQ1 = MyCollection2.Where(building => building.City.Length > 4)
@@ -66,6 +68,13 @@ var LINQ1 = MyCollection2.Where(building => building.City.Length > 4)
                          .OrderBy(city => city.Length);
 foreach (var str in LINQ1)
     Console.WriteLine(str);
+
+var LINQ2 = from building in MyCollection2
+            where building.Volume < 6
+            select building;
+
+foreach (var building in LINQ2)
+    Console.WriteLine(building);
 
 
 // Создание нетипизированной коллекции ArrayList для хранения объектов
@@ -79,7 +88,7 @@ ArrayList MyStrings = new()
 
 // Итерирование по коллекции используя цикл foreach
 foreach (var v in MyStrings)
-    Console.WriteLine(v?.ToString());
+    Console.WriteLine(v);
 Console.WriteLine();
 
 // Определение входимости строк в коллекцию

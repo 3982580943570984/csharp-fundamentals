@@ -1,0 +1,13 @@
+C:\Users\svina\source\repos\OOP_2\OOP_2\bin\Debug\OOP_2.exe.config
+C:\Users\svina\source\repos\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\svina\source\repos\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.AssemblyReference.cache
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.Properties.Resources.resources
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.GenerateResource.cache
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\Studying.MainForm.resources
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\Studying.CreateBuildingForm.resources
+C:\Users\svina\source\repos\OOP_2\OOP_2\obj\Debug\Studying.ModifyBuildingForm.resources

@@ -1,0 +1,17 @@
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\bin\Debug\net7.0-windows\OOP_4_2.exe
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\bin\Debug\net7.0-windows\OOP_4_2.deps.json
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\bin\Debug\net7.0-windows\OOP_4_2.runtimeconfig.json
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\bin\Debug\net7.0-windows\OOP_4_2.dll
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\bin\Debug\net7.0-windows\OOP_4_2.pdb
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.csproj.AssemblyReference.cache
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\Studying.MainForm.resources
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.csproj.GenerateResource.cache
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.AssemblyInfoInputs.cache
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.AssemblyInfo.cs
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.csproj.CoreCompileInputs.cache
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.dll
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\refint\OOP_4_2.dll
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.pdb
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\OOP_4_2.genruntimeconfig.cache
+C:\Users\svina\source\repos\OOP_4_2\OOP_4_2\obj\Debug\net7.0-windows\ref\OOP_4_2.dll

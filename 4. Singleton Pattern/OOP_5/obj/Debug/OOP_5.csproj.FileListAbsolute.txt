@@ -1,0 +1,11 @@
+C:\Users\svina\source\repos\OOP_5\OOP_5\bin\Debug\OOP_5.exe.config
+C:\Users\svina\source\repos\OOP_5\OOP_5\bin\Debug\OOP_5.exe
+C:\Users\svina\source\repos\OOP_5\OOP_5\bin\Debug\OOP_5.pdb
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.csproj.AssemblyReference.cache
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.Properties.Resources.resources
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.csproj.GenerateResource.cache
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.csproj.CoreCompileInputs.cache
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.exe
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\OOP_5.pdb
+C:\Users\svina\source\repos\OOP_5\OOP_5\obj\Debug\Studying.MainForm.resources

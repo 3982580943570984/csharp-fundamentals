@@ -1,0 +1,15 @@
+C:\Users\svina\source\repos\OOP_1\OOP_1\bin\Debug\net7.0\OOP_1.exe
+C:\Users\svina\source\repos\OOP_1\OOP_1\bin\Debug\net7.0\OOP_1.deps.json
+C:\Users\svina\source\repos\OOP_1\OOP_1\bin\Debug\net7.0\OOP_1.runtimeconfig.json
+C:\Users\svina\source\repos\OOP_1\OOP_1\bin\Debug\net7.0\OOP_1.dll
+C:\Users\svina\source\repos\OOP_1\OOP_1\bin\Debug\net7.0\OOP_1.pdb
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.csproj.AssemblyReference.cache
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.AssemblyInfoInputs.cache
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.AssemblyInfo.cs
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.csproj.CoreCompileInputs.cache
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.dll
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\refint\OOP_1.dll
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.pdb
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\OOP_1.genruntimeconfig.cache
+C:\Users\svina\source\repos\OOP_1\OOP_1\obj\Debug\net7.0\ref\OOP_1.dll
